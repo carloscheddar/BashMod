@@ -1,0 +1,9 @@
+Modified version of the .bashrc from Arch Linux to work with the Mac OS X
+terminal to be able to use the same color scheme.
+
+Modifications:
+	Added Apple_Terminal* to TERM case.
+	Modified .dir_colors to show green username.
+	Added aliases for ls, grep and dir to show colors.
+	Added "la" as an alias for 'ls -a'.
+	Added some options for homebrew, rvm and hub but are commented to prevent conflicts.
